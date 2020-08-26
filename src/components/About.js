@@ -27,7 +27,7 @@ function About() {
           </div>
           <div className="infoBlock block--3">
             <div className="infoBlock__text">
-              <p>Good food lover, vine lover, F1 fanatic, Mensa member and much more :D</p>
+              <p>Good food lover, vine lover, F1 fanatic, Mensa member and much more :)</p>
             </div>
           </div>
           <a href="https://www.dropbox.com/s/8nnaw6yas16woxq/CV_Patrun.pdf?dl=0" target="blank">
