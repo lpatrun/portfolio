@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.adfd698d.chunk.css",
-    "main.js": "/portfolio/static/js/main.2b4875a2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2b4875a2.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.92d286a2.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.92d286a2.js.map",
-    "static/js/2.a7fbc1ea.chunk.js": "/portfolio/static/js/2.a7fbc1ea.chunk.js",
-    "static/js/2.a7fbc1ea.chunk.js.map": "/portfolio/static/js/2.a7fbc1ea.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.6ef15654babbc5d6de86b47990122073.js": "/portfolio/precache-manifest.6ef15654babbc5d6de86b47990122073.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.adfd698d.chunk.css.map": "/portfolio/static/css/main.adfd698d.chunk.css.map",
-    "static/js/2.a7fbc1ea.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a7fbc1ea.chunk.js.LICENSE.txt",
-    "static/media/Projects.css": "/portfolio/static/media/vue.3d2028ac.png",
-    "static/media/filmotekaMock.jpg": "/portfolio/static/media/filmotekaMock.3f63726f.jpg",
-    "static/media/governorMock.jpg": "/portfolio/static/media/governorMock.8df97988.jpg",
-    "static/media/Header.css": "/portfolio/static/media/headbckgr.18743db9.jpg",
-    "static/media/herosMock.jpg": "/portfolio/static/media/herosMock.e9a7d1bb.jpg",
-    "static/media/kenazMock.jpg": "/portfolio/static/media/kenazMock.c429502e.jpg",
-    "static/media/portfolioMock.jpg": "/portfolio/static/media/portfolioMock.7a912e78.jpg",
-    "static/media/profilepic.jpg": "/portfolio/static/media/profilepic.93a2498b.jpg"
+    "main.css": "/static/css/main.59856248.chunk.css",
+    "main.js": "/static/js/main.676edfd2.chunk.js",
+    "main.js.map": "/static/js/main.676edfd2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf8c75f0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf8c75f0.js.map",
+    "static/js/2.a7fbc1ea.chunk.js": "/static/js/2.a7fbc1ea.chunk.js",
+    "static/js/2.a7fbc1ea.chunk.js.map": "/static/js/2.a7fbc1ea.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.44292b2d150fc9135be6ed41a5f08b07.js": "/precache-manifest.44292b2d150fc9135be6ed41a5f08b07.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.59856248.chunk.css.map": "/static/css/main.59856248.chunk.css.map",
+    "static/js/2.a7fbc1ea.chunk.js.LICENSE.txt": "/static/js/2.a7fbc1ea.chunk.js.LICENSE.txt",
+    "static/media/Projects.css": "/static/media/vue.3d2028ac.png",
+    "static/media/filmotekaMock.jpg": "/static/media/filmotekaMock.3f63726f.jpg",
+    "static/media/governorMock.jpg": "/static/media/governorMock.8df97988.jpg",
+    "static/media/Header.css": "/static/media/headbckgr.18743db9.jpg",
+    "static/media/herosMock.jpg": "/static/media/herosMock.e9a7d1bb.jpg",
+    "static/media/kenazMock.jpg": "/static/media/kenazMock.c429502e.jpg",
+    "static/media/portfolioMock.jpg": "/static/media/portfolioMock.7a912e78.jpg",
+    "static/media/profilepic.jpg": "/static/media/profilepic.93a2498b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.92d286a2.js",
+    "static/js/runtime-main.cf8c75f0.js",
     "static/js/2.a7fbc1ea.chunk.js",
-    "static/css/main.adfd698d.chunk.css",
-    "static/js/main.2b4875a2.chunk.js"
+    "static/css/main.59856248.chunk.css",
+    "static/js/main.676edfd2.chunk.js"
   ]
 }
