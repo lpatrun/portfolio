@@ -1,0 +1,137 @@
+.proj-bckgr {
+  background-image: linear-gradient(to right bottom, rgba(60, 120, 250, 0.7), rgba(0, 47, 177, 0.8)),
+    url(../images/portfoliobcgr.jpg);
+  padding: 50px 0px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: repeat-x;
+  transform: skewY(-10deg);
+  margin-top: -100px;
+}
+
+.projects-title {
+  color: #eee;
+  text-align: center;
+  text-transform: uppercase;
+  transform: skewY(9deg);
+  margin-bottom: 100px;
+}
+
+.heading-tertiary {
+  text-transform: uppercase;
+  background-image: linear-gradient(to right, rgba(60, 120, 250, 0.7), rgba(0, 47, 177, 0.8));
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  letter-spacing: 2px;
+  margin-bottom: 15px;
+}
+
+.projects-title h3 {
+  font-weight: 400;
+  font-size: 45px;
+}
+
+.projects {
+  width: 75%;
+  margin: 75px auto 150px auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.project-container {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  transform: skewY(10deg);
+  background-color: #f7f7f7;
+  width: 100%;
+  padding: 60px 35px;
+}
+
+.project-container:not(:last-child) {
+  margin-bottom: 100px;
+}
+
+.project-bullets {
+  padding: 0 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.project-image img {
+  width: 400px;
+}
+
+.btnCont {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.btn-code {
+  text-transform: uppercase;
+  width: 100px;
+  transform: skewX(-18deg);
+  border: 3px solid #002fb1;
+  cursor: pointer;
+  color: #002fb1;
+  font-weight: 700;
+  padding: 15px;
+  outline: none;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.btn-code:hover {
+  background-color: #002fb1;
+  color: #eee;
+}
+
+.btn-code p {
+  transform: skewX(18deg);
+}
+
+.btn-live {
+  text-transform: uppercase;
+  width: 100px;
+  transform: skewX(-18deg);
+  border: 3px solid #002fb1;
+  cursor: pointer;
+  color: #eee;
+  background-color: #002fb1;
+  font-weight: 700;
+  padding: 15px;
+  outline: none;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.btn-live:hover {
+  background-color: #3c78fa;
+  border: 3px solid #3c78fa;
+}
+
+.btn-live p {
+  transform: skewX(18deg);
+}
+
+.vue-background {
+  background-image: linear-gradient(to bottom, rgba(250, 250, 250, 0.95), rgba(250, 250, 250, 0.85)),
+    url(../images/vue.png);
+  object-fit: contain;
+  background-size: cover;
+}
+
+.angular-background {
+  background-image: linear-gradient(to bottom, rgba(250, 250, 250, 0.95), rgba(250, 250, 250, 0.85)),
+    url(../images/angular.png);
+  object-fit: contain;
+  background-size: cover;
+}
+
+.react-background {
+  background-image: linear-gradient(to bottom, rgba(250, 250, 250, 0.95), rgba(250, 250, 250, 0.85)),
+    url(../images/react.png);
+  object-fit: contain;
+  background-size: cover;
+}
