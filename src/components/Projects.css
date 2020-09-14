@@ -62,10 +62,11 @@
 }
 
 .project-image img {
-  width: 400px;
+  width: 90%;
 }
 
 .btnCont {
+  margin-top: 20px;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
@@ -134,4 +135,19 @@
     url(../images/react.png);
   object-fit: contain;
   background-size: cover;
+}
+
+@media only screen and (max-width: 425px) {
+  .project-container {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .btnCont {
+    margin-top: 25px;
+  }
+
+  .btn-code, .btn-live {
+    width: 80px;
+  }
 }

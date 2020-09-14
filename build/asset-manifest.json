@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.adfd698d.chunk.css",
-    "main.js": "/portfolio/static/js/main.dac40b52.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.dac40b52.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
-    "static/js/2.79e9ed1d.chunk.js": "/portfolio/static/js/2.79e9ed1d.chunk.js",
-    "static/js/2.79e9ed1d.chunk.js.map": "/portfolio/static/js/2.79e9ed1d.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.1749e66d.chunk.css",
+    "main.js": "/portfolio/static/js/main.7530682f.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.7530682f.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.92d286a2.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.92d286a2.js.map",
+    "static/js/2.a7fbc1ea.chunk.js": "/portfolio/static/js/2.a7fbc1ea.chunk.js",
+    "static/js/2.a7fbc1ea.chunk.js.map": "/portfolio/static/js/2.a7fbc1ea.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.ebf21a28b8d04a1248de71836f7e7269.js": "/portfolio/precache-manifest.ebf21a28b8d04a1248de71836f7e7269.js",
+    "precache-manifest.59d9ed7b55a09d8ab8d84967fb597553.js": "/portfolio/precache-manifest.59d9ed7b55a09d8ab8d84967fb597553.js",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.adfd698d.chunk.css.map": "/portfolio/static/css/main.adfd698d.chunk.css.map",
-    "static/js/2.79e9ed1d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.79e9ed1d.chunk.js.LICENSE.txt",
+    "static/css/main.1749e66d.chunk.css.map": "/portfolio/static/css/main.1749e66d.chunk.css.map",
+    "static/js/2.a7fbc1ea.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a7fbc1ea.chunk.js.LICENSE.txt",
     "static/media/Projects.css": "/portfolio/static/media/vue.3d2028ac.png",
     "static/media/filmotekaMock.jpg": "/portfolio/static/media/filmotekaMock.3f63726f.jpg",
     "static/media/governorMock.jpg": "/portfolio/static/media/governorMock.8df97988.jpg",
@@ -22,9 +22,9 @@
     "static/media/profilepic.jpg": "/portfolio/static/media/profilepic.93a2498b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.209c2d7e.js",
-    "static/js/2.79e9ed1d.chunk.js",
-    "static/css/main.adfd698d.chunk.css",
-    "static/js/main.dac40b52.chunk.js"
+    "static/js/runtime-main.92d286a2.js",
+    "static/js/2.a7fbc1ea.chunk.js",
+    "static/css/main.1749e66d.chunk.css",
+    "static/js/main.7530682f.chunk.js"
   ]
 }
