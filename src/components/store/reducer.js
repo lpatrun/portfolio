@@ -45,6 +45,7 @@ const initialState = {
       features: [
         'React',
         'Redux',
+        'Functional components',
         '*work in progress'
       ],
       code: 'https://github.com/lpatrun/portfolio',

@@ -1,40 +1,38 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './About.css';
 import { connect } from 'react-redux';
-
 import profilepic from '../images/profilepic.jpg'
 
-class About extends Component {
-  render() {
+const About = (props) => {
 
-    const aboutMeBlock = this.props.about.map((element) => (
-      <div className={element.classes} key={element.id}>
-        <div className="infoBlock__text">
-          <p>{element.quote}</p>
+  const aboutMeBlock = props.about.map((element) => (
+    <div className={element.classes} key={element.id}>
+      <div className="infoBlock__text">
+        <p>{element.quote}</p>
+      </div>
+    </div>
+  ));
+
+  return (
+    <section className="aboutMe">
+      <div className="center-text">
+        <h2 className="heading-secondary">ABOUT ME</h2>
+      </div>
+      <div className="information">
+        <div>
+          <img src={profilepic} alt="Profile pic" className="myImg" />
+        </div>
+        <div className="myInfo">
+          {aboutMeBlock}
+          <a href="https://www.dropbox.com/s/8nnaw6yas16woxq/CV_Patrun.pdf?dl=0" target="blank">
+            <button className="cv-btn"><p>my cv</p></button>
+          </a>
         </div>
       </div>
-    ));
-
-    return (
-      <section className="aboutMe">
-        <div className="center-text">
-          <h2 className="heading-secondary">ABOUT ME</h2>
-        </div>
-        <div className="information">
-          <div>
-            <img src={profilepic} alt="Profile pic" className="myImg" />
-          </div>
-          <div className="myInfo">
-            {aboutMeBlock}
-            <a href="https://www.dropbox.com/s/8nnaw6yas16woxq/CV_Patrun.pdf?dl=0" target="blank">
-              <button className="cv-btn"><p>my cv</p></button>
-            </a>
-          </div>
-        </div>
-      </section>
-    );
-  }
+    </section>
+  );
 }
+
 
 const mapStateToProps = state => {
   return {
